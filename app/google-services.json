@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73404636453",
+    "firebase_url": "https://milen-6fe6a.firebaseio.com",
+    "project_id": "milen-6fe6a",
+    "storage_bucket": "milen-6fe6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73404636453:android:79352bce62d3fd3724cecc",
+        "android_client_info": {
+          "package_name": "com.saksham.milen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73404636453-mv384pjabjap3an0k11do41hfo6r23th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saksham.milen",
+            "certificate_hash": "960aac10d4d5830a84b3f6f8e5f1cdf32fa8e982"
+          }
+        },
+        {
+          "client_id": "73404636453-i6i83rcqhhacvjkshath6e8r2o1p983u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oGwsW1qrvZsEU9c6M32YE2LOZFf3rHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73404636453-i6i83rcqhhacvjkshath6e8r2o1p983u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
